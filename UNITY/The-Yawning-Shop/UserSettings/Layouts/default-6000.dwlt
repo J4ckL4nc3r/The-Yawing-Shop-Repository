@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 268
     height: 584
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -218,8 +218,8 @@ MonoBehaviour:
     y: 0
     width: 1152
     height: 584
-  m_MinSize: {x: 50, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 51, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -1066,7 +1066,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.15278395, y: 0.5151337, z: -0.09390374, w: -0.8381392}
     speed: 2
-    m_Value: {x: -0.15292457, y: 0.5138757, z: -0.09367443, w: -0.83891064}
+    m_Value: {x: -0.15278395, y: 0.5151337, z: -0.09390374, w: -0.8381392}
   m_Size:
     m_Target: 10
     speed: 2
@@ -1438,15 +1438,12 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 73}
     m_SelectedIDs:
-    - m_Data: 63964
+    - m_Data: 51902
     m_LastClickedID:
-      m_Data: 63964
+      m_Data: 51902
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 63962
-    - m_Data: 69702
-    - m_Data: 69706
-    - m_Data: 69710
+    - m_Data: 51576
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1480,7 +1477,9 @@ MonoBehaviour:
     m_SelectedIDs: []
     m_LastClickedID:
       m_Data: 0
-    m_ExpandedIDs: []
+    m_ExpandedIDs:
+    - m_Data: 0
+    - m_Data: 51576
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1509,9 +1508,9 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: -63430
+    - m_Data: 52004
     m_LastClickedEntityId:
-      m_Data: -63430
+      m_Data: 52004
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 54900
@@ -1598,15 +1597,19 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: -63430
+      - m_Data: 52004
       m_LastClickedID:
-        m_Data: -63430
+        m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -63098
-      - m_Data: -62228
-      - m_Data: -61078
-      - m_Data: -60872
-      - m_Data: -47234
+      - m_Data: -8726
+      - m_Data: -7642
+      - m_Data: -6558
+      - m_Data: -6400
+      - m_Data: -5316
+      - m_Data: -4060
+      - m_Data: -3746
+      - m_Data: -3416
+      - m_Data: -1362
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
